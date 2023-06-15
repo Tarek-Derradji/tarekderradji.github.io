@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Internships
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+1. Finite-Volume Subcells correction on discontinuous Galerkin schemes.
+Abstract: Building and implementing a new strategy for stabilizing discontinuous Galerkin numerical methods using a Finite-Volume subcells type approach for the Nonlinear Shallow-Water equations. We consider here an a priori approach, more precisely a monolithic subcell dG/FV convex property preserving scheme. Advised by François Vilar & Fabien Marche.
+
 
 Work experience
 ======
