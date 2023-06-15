@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Page"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Sacha Cardonna"
 description              : &description "Ph.D. Student in Mathematics"
