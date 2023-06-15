@@ -18,8 +18,8 @@ Education
 
 Work experience
 ======
-* Ph.D. candidate with teaching activities
-* Tutor in Sciences and Humanities
+* Ph.D. candidate with teaching activities - 2023/Present
+* Tutor in Sciences and Humanities - 2017/2023
 
 Computer Skills
 ======
