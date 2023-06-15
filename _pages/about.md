@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in Mathematics, under the supervision of François Vilar & Fabien Marche at Institut Montpelliérain Alexander Grothendieck (IMAG - University of Montpellier).
+I'm a Ph.D. candidate in Mathematics, under the supervision of <u><a href="https://francois-vilar.pagesperso-orange.fr">François Vilar</a> & <u><a href="https://imag.umontpellier.fr/~marche/">Fabien Marche</a> at Institut Montpelliérain Alexander Grothendieck (IMAG - University of Montpellier).
 My work is focused on theoretical and numerical analysis of partial derivative equations (PDEs), and their applications to physics problems, mainly fluid mechanics.
 
 Research interests
