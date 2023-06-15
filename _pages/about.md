@@ -16,6 +16,6 @@ Research interests
 -  Theoretical analysis of PDEs, Modeling & Coupling;
 - Discontinuous Galerkin schemes, Finite-Volume schemes, ALE approaches;
 - Fluid mechanics, Hyperbolic PDEs, Nonlinear Shallow-Water equations;
-- Scientific computing.
+- Scientific computing (C++, Python).
 
 
