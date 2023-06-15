@@ -4,11 +4,11 @@ main:
  - title: "Research"
     url: /education/
 
-  - title: "Teaching"
+ - title: "Teaching"
     url: /teaching/    
 
-  - title: "Documents"
+ - title: "Documents"
     url: /documents/  
 
-  - title: "CV"
+ - title: "CV"
     url: /cv/
