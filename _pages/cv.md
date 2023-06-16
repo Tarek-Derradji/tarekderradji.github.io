@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+<b>Curriculum Vitae</b> : PDF.
+
 Education
 ======
-* M.Sc. in Theoretical and Numerical Analysis of partial derivative equations (with honours) - 2023
+* M.Sc. in Theoretical and Numerical Analysis of partial derivative equations - 2023
 * M.Sc. in Fundamental Mathematics - 2021
-* B.Sc. in Pure & Applied Mathematics with honours (with honours) - 2020
-* A.Sc. in Mathematics & Physics (with honours) - 2019
+* B.Sc. in Pure & Applied Mathematics - 2020
+* A.Sc. in Mathematics & Physics - 2019
 
 Work experience
 ======
