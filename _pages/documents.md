@@ -52,15 +52,15 @@ Projects
 
 <b> Müller's SPH C++ implementation for fluid dynamics </b>: report.
 
-<b> Projects for a posteriori estimates course </b>: reports.
+<b> Projects for a posteriori estimates course </b>: [reports](https://drive.google.com/drive/folders/1z1DtewZAjelfo_tHnjh6TZzA_A_a4aCj?usp=sharing).
 
-<b> Some results about measure theory </b>: notes.
+<b> Some results about measure theory </b>: [notes](https://drive.google.com/drive/folders/13TeVJGtoIO5Xk9MxeGtBkZnzkxi8J9TG?usp=sharing).
 
-<b> Reports for analysis courses </b>: reports.
+<b> Reports for analysis courses </b>: [reports](https://drive.google.com/drive/folders/1pF1-KXYOm8rfycXRVeirWSbSoufYTr0s?usp=sharing).
 
-<b> Reports for algebra courses </b>: reports.
+<b> Reports for algebra courses </b>: [reports](https://drive.google.com/drive/folders/12k5KvgNMU8iEU9qYQoFYRyaJ8ebhsgBu?usp=sharing).
 
-<b> Projects for machine learning and optimization course </b>: reports.
+<b> Projects for machine learning and optimization course </b>: [reports](https://drive.google.com/drive/folders/1eqYNW_TL_0TBVxVPYGF3PJ686cYDTE3d?usp=sharing).
 
 
 
