@@ -25,6 +25,7 @@ Report & Beamer.
 
 Report & Beamer.
 
+***
 
 <b> From differential geometry to mathematical billiards</b>.
 
@@ -32,6 +33,7 @@ Report & Beamer.
 
 Report & Beamer.
 
+***
 
 <b> Proof of Dirichlet Prime Number theorem</b>.
 
@@ -39,6 +41,7 @@ Report & Beamer.
 
 Report & Beamer.
 
+***
 
 Projects
 ======
