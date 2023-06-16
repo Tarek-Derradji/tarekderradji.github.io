@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Ph.D. Description
+======
+
+The complete description of the flow of an irrotational and incompressible free surface fluid can be theoretically obtained thanks to the free surface Euler equations. In practice, however, it is often necessary, in a “shallow water” flow regime, to work with asymptotic models in order to allow simulations at realistic scales. Physical models integrated according to the vertical dimension, which nevertheless allow a very precise asymptotic description of the flow, have thus recently been proposed, validated experimentally and implemented numerically. 
+Such models are now tools used in coastal engineering to simulate wave propagation and transformations. 
+
+In these asymptotic models, the resolution of free-boundary problems and the consideration of floating objects on the surface haven't been much studied and remain a challenge. On the theoretical level, a recent work made it possible to rigorously analyze a non-linear formulation taking into account the presence of an object floating in the fluid by breaking down the field of study into a part with a free surface and a part congested by the presence of the object, and explaining in a simple way the conditions of transmission between these subdomains. Numerically, very few studies have been proposed using this type of formulation. In a very recent thesis work (Ali Haidar's Ph.D.) and a submitted publication, a purely one-dimensional approach was introduced, based on a DG-ALE method, stabilized by a Finite-Volume type approach of sub-mesh a posteriori. In order to continue this work, within the framework of this thesis, we propose:
+1. To study new stabilization strategies of the a priori type for shallow-water models, which are of particular importance for this type problems with singularities, first in the one-dimensional case, then in the two-dimensional case.
+2. To extend the previous strategy to the two-dimensional case, which has not yet been done both theoretically (formulation of the boundary value problem with free boundary) and numerically.
+The originality of our approach will also consist in coupling the previous method with an Arbitrary Lagrangian Eulerian (ALE) description of the flow to manage the displacement and the deformation of the mesh, thus making it possible to carry out the coupling with the object floating on the surface. Depending on the progress of the work, applications to the mechanical modeling of wave energy converters may be addressed.
+
 Shallow-Water equations
 ======
 
