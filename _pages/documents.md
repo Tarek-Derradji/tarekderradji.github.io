@@ -17,6 +17,7 @@ Internships
 
 Report & Beamer.
 
+***
 
 <b> Asymptotic analysis of PDEs sequences and homogenization theory</b>.
 
