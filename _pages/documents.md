@@ -11,6 +11,8 @@ redirect_from:
 
 Internships
 ======
+
+***
 <b> Finite-Volume Subcells correction on discontinuous Galerkin schemes</b>.
 
 <i>Abstract</i>. Building and implementing a new strategy for stabilizing discontinuous Galerkin numerical methods using a Finite-Volume subcells type approach for the Nonlinear Shallow-Water equations. We consider here an a priori approach, more precisely a monolithic subcell dG/FV convex property preserving scheme. Advised by François Vilar & Fabien Marche.
