@@ -48,19 +48,19 @@ Report & Beamer.
 Projects
 ======
 
-<b> Hybrid High-Order method on Leray-Lions operators </b> : report.
+<b> Hybrid High-Order method on Leray-Lions operators </b>: report.
 
-<b> Müller's SPH C++ implementation for fluid dynamics </b> : report.
+<b> Müller's SPH C++ implementation for fluid dynamics </b>: report.
 
-<b> Projects for a posteriori estimates course </b> : reports.
+<b> Projects for a posteriori estimates course </b>: reports.
 
-<b> Some results about measure theory </b> : Handwritten notes.
+<b> Some results about measure theory </b>: notes.
 
-<b> Reports for analysis courses </b> : reports.
+<b> Reports for analysis courses </b>: reports.
 
-<b> Reports for algebra courses </b> : reports.
+<b> Reports for algebra courses </b>: reports.
 
-<b> Projects for machine learning and optimization course </b> : reports.
+<b> Projects for machine learning and optimization course </b>: reports.
 
 
 
