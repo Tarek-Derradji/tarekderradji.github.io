@@ -24,9 +24,9 @@ Work experience
 Computer Skills
 ======
 * <b>Programming</b>: C++, Python, notions of Fortran.  
-* Mathematics softwares: FreeFEM++, Matlab, Scilab, gnuplot, Maple, Mathematica.
-* Markup languages: HTML, CSS, PHP.
-* Typesetting systems: LaTeX, Beamer, Microsoft Office (Word & PowerPoint). 
-* Operating systems: Linux (Kali & Debian), Windows, macOS. 
-* Creation softwares: Adobe Creative Cloud, Audacity, Final Cut Pro X. 
+* <b>Mathematics softwares</b>: FreeFEM++, Matlab, Scilab, gnuplot, Maple, Mathematica.
+* <b>Markup languages</b>: HTML, CSS, PHP.
+* <b>Typesetting systems</b>: LaTeX, Beamer, Microsoft Office (Word & PowerPoint). 
+* <b>Operating systems</b>: Linux (Kali & Debian), Windows, macOS. 
+* <b>Creation softwares</b>: Adobe Creative Cloud, Audacity, Final Cut Pro X. 
 
