@@ -20,6 +20,8 @@ In these asymptotic models, the resolution of free-boundary problems and the con
 
 The originality of our approach will also consist in coupling the previous method with an Arbitrary Lagrangian Eulerian (ALE) description of the flow to manage the displacement and the deformation of the mesh, thus making it possible to carry out the coupling with the object floating on the surface. Depending on the progress of the work, applications to the mechanical modeling of wave energy converters may be addressed.
 
+***
+
 Shallow-Water equations
 ======
 The Shallow-Water equations are a collection of partial differential equations that describe the behavior of fluids in shallow areas such as rivers, lakes, and coastal areas. Mathematicians, engineers, and scientists are all interested to them because they provide a fundamental framework for understanding fluid dynamics in a wide range of practical applications. SW equations were developed in the mid-nineteenth century by mathematicians and physicists who wanted to understand the behavior of water waves, obtained by  deriving the full Navier-Stokes equations, which describe fluid motion in general. The fluid was simplified by assuming that it is incompressible and inviscid, and that its depth is much smaller than its horizontal extent. The main advantage of this model is its computation cost, allowing scientists to perform big-scale simulations in real time.
