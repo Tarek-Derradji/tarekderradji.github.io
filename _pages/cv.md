@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<b>Curriculum Vitae</b> : PDF.
+<b>Curriculum Vitae</b> : [CV]({{ site.url }}/files/CV.pdf).
 
 Education
 ======
