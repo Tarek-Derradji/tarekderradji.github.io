@@ -48,9 +48,9 @@ Report & Beamer.
 Projects
 ======
 
-<b> Hybrid High-Order method on Leray-Lions operators </b>: report.
+<b> Hybrid High-Order method on Leray-Lions operators </b>: [report]({{ site.url }}/files/HHO pour Leray-Lions.pdf).
 
-<b> Müller's SPH C++ implementation for fluid dynamics </b>: report.
+<b> Müller's SPH C++ implementation for fluid dynamics </b>: [report]({{ site.url }}/files/RapportSPH.pdf).
 
 <b> Projects for a posteriori estimates course </b>: [reports](https://drive.google.com/drive/folders/1z1DtewZAjelfo_tHnjh6TZzA_A_a4aCj?usp=sharing).
 
