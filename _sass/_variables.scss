@@ -47,11 +47,11 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #b35509; //orange
+$gray                       : #ffffff; //orange < bl
 $dark-gray                  : #ebeb07; //jajne
 $darker-gray                : #07eb1e; //vert
-$light-gray                 : #074feb; //bleu
-$lighter-gray               : #eb07c5; //rose
+$light-gray                 : #c91818; //bleu < ro
+$lighter-gray               : #c91818; //rose < ro
 
 $body-color                 : #c91818;
 $background-color           : #000000;
@@ -93,7 +93,7 @@ $xing-color                 : #006567;
 $link-color                 : #c91818;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : #c91818;
-$masthead-link-color        : #000000;
+$masthead-link-color        : #ffffff;
 $masthead-link-color-hover  : #c91818;
 
 
