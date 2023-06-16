@@ -14,16 +14,16 @@ redirect_from:
 Education
 ======
 * <b>Faculty of Sciences</b>, Montpellier, FR
-  * <i>2021 - 2023</i>: M.Sc. in Theoretical and Numerical Analysis of partial derivative equations 
-  * <i>2020 - 2021</i>: M.Sc. in Fundamental Mathematics
+  * M.Sc. in Theoretical and Numerical Analysis of partial derivative equations (<i>2021 - 2023</i>) 
+  * M.Sc. in Fundamental Mathematics (<i>2020 - 2021</i>)
 * <b>Faculty of Sciences</b>, Montpellier, FR
-  * <i>2019 - 2020</i>: B.Sc. in Pure & Applied Mathematics 
-  * <i>2017 - 2019</i>: A.Sc. in Mathematics & Physics 
+  * B.Sc. in Pure & Applied Mathematics (<i>2019 - 2020</i>)
+  * A.Sc. in Mathematics & Physics (<i>2017 - 2019</i>)
 
 Work experience
 ======
-* <i>2023 - Present</i>: Ph.D. candidate with teaching activities 
-* <i>2017 - 2023</i>: Tutor in Sciences and Humanities
+* Ph.D. candidate with teaching activities (<i>2023 - Present</i>)
+* Tutor in Sciences and Humanities (<i>2017 - 2023</i>)
 
 Computer Skills
 ======
