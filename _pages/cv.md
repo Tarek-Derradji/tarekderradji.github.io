@@ -23,7 +23,7 @@ Work experience
 
 Computer Skills
 ======
-* Programming: C++, Python, notions of Fortran.  
+* <b>Programming</b>: C++, Python, notions of Fortran.  
 * Mathematics softwares: FreeFEM++, Matlab, Scilab, gnuplot, Maple, Mathematica.
 * Markup languages: HTML, CSS, PHP.
 * Typesetting systems: LaTeX, Beamer, Microsoft Office (Word & PowerPoint). 
