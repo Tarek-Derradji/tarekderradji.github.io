@@ -16,7 +16,7 @@ redirect_from:
 Education
 ======
 * <b>Faculty of Sciences</b>, Montpellier, FR
-  * M.Sc. in Theoretical and Numerical Analysis of partial derivative equations (<i>2021 - 2023</i>) 
+  * M.Sc. in Theoretical and Numerical Analysis of PDEs (<i>2021 - 2023</i>) 
   * M.Sc. in Fundamental Mathematics (<i>2020 - 2021</i>)
 * <b>Faculty of Sciences</b>, Montpellier, FR
   * B.Sc. in Pure & Applied Mathematics (<i>2019 - 2020</i>)
