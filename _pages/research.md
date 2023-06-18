@@ -13,7 +13,9 @@ About my Ph.D.
 ======
 
 <b>Title</b>. Numerical study of free-border problem and wave-structure interaction.
+
 <b>Field</b>. Applied Mathematics, Mathematical Physics.
+
 <b>Keywords</b>. Discontinuous Galerkin, Finite-Volume subcell, Shallow-Water, wave-structure interactions, ALE approaches.
 
 <b>Abstract</b>. The complete description of the flow of an irrotational and incompressible free surface fluid can be theoretically obtained thanks to the free surface Euler equations. In practice, however, it is often necessary, in a “shallow water” flow regime, to work with asymptotic models in order to allow simulations at realistic scales. Physical models integrated according to the vertical dimension, which nevertheless allow a very precise asymptotic description of the flow, have thus recently been proposed, validated experimentally and implemented numerically. 
