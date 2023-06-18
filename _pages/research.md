@@ -9,9 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Ph.D. Description
+About my Ph.D. 
 ======
-The complete description of the flow of an irrotational and incompressible free surface fluid can be theoretically obtained thanks to the free surface Euler equations. In practice, however, it is often necessary, in a “shallow water” flow regime, to work with asymptotic models in order to allow simulations at realistic scales. Physical models integrated according to the vertical dimension, which nevertheless allow a very precise asymptotic description of the flow, have thus recently been proposed, validated experimentally and implemented numerically. 
+
+<b>Title</b>. Numerical study of free-border problem and wave-structure interaction.
+<b>Field</b>. Applied Mathematics, Mathematical Physics.
+<b>Keywords</b>. Discontinuous Galerkin, Finite-Volume subcell, Shallow-Water, wave-structure interactions, ALE approaches.
+
+<b>Abstract</b>. The complete description of the flow of an irrotational and incompressible free surface fluid can be theoretically obtained thanks to the free surface Euler equations. In practice, however, it is often necessary, in a “shallow water” flow regime, to work with asymptotic models in order to allow simulations at realistic scales. Physical models integrated according to the vertical dimension, which nevertheless allow a very precise asymptotic description of the flow, have thus recently been proposed, validated experimentally and implemented numerically. 
 Such models are now tools used in coastal engineering to simulate wave propagation and transformations. 
 
 In these asymptotic models, the resolution of free-boundary problems and the consideration of floating objects on the surface haven't been much studied and remain a challenge. On the theoretical level, a recent work made it possible to rigorously analyze a non-linear formulation taking into account the presence of an object floating in the fluid by breaking down the field of study into a part with a free surface and a part congested by the presence of the object, and explaining in a simple way the conditions of transmission between these subdomains. Numerically, very few studies have been proposed using this type of formulation. In a very recent thesis work (Ali Haidar's Ph.D.) and a submitted publication, a purely one-dimensional approach was introduced, based on a DG-ALE method, stabilized by a Finite-Volume type approach of sub-mesh a posteriori. In order to continue this work, within the framework of this thesis, we propose:
