@@ -11,6 +11,8 @@ redirect_from:
 
 <b>Full resume</b>: [PDF]({{ site.url }}/files/CV.pdf).
 
+***
+
 Education
 ======
 * <b>Faculty of Sciences</b>, Montpellier, FR
@@ -20,10 +22,14 @@ Education
   * B.Sc. in Pure & Applied Mathematics (<i>2019 - 2020</i>)
   * A.Sc. in Mathematics & Physics (<i>2017 - 2019</i>)
 
+***
+
 Work experience
 ======
 * Ph.D. candidate with teaching activities (<i>2023 - Present</i>)
 * Tutor in Sciences and Humanities (<i>2017 - 2023</i>)
+
+***
 
 Computer Skills
 ======
