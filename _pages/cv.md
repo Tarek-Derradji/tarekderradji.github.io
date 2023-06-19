@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<b>Full resume</b>: [PDF]({{ site.url }}/files/CV.pdf).
+<b>Curriculum vitae</b>: [PDF]({{ site.url }}/files/CV.pdf).
 
 ***
 
