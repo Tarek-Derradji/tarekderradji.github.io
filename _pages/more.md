@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Discover diverse content encompassing mathematics and more.
+Discover diverse content encompassing mathematics, physics and more.
