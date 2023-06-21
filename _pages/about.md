@@ -19,4 +19,6 @@ Research interests
 - <b>Applications</b>. Fluid mechanics, nonlinear Shallow-Water equations.
 - <b>Scientific computing</b>. Object oriented and generic programming, parallel programming.
 
-
+Highlights
+======
+Nothing yet, just happy to pursue for three more years :-)
