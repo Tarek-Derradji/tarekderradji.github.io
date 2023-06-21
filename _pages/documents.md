@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Within this section, you will find a diverse range of documents, including essays, research papers, presentations, and reports. 
+
 Internships
 ======
 
