@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Explore my doctoral journey and research interests.
+
 About my Ph.D. 
 ======
 
