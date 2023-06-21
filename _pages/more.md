@@ -30,7 +30,7 @@ Discover diverse content encompassing mathematics, physics and more.
 
 <b>Learn and practice programming</b>:
 - Dominique Liar's [Koor](https://www.youtube.com/@DominiqueLiard06) to learn C++, Python, Java...
-- A more specialized website with free lessons :[Learn C++](https://www.learncpp.com)
+- A more specialized website with free lessons: [Learn C++](https://www.learncpp.com).
 
 <b>Scientific vulgarization</b>:
 - [Blog](https://scienceetonnante.com) and [YouTube](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) channel of David Louapre, for physics, maths, informatics...
