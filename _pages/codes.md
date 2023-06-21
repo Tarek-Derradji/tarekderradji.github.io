@@ -20,4 +20,4 @@ It is important to note that the code is a work in progress, far from being comp
 
 Looking ahead, my aspiration is to further enhance and refine the code. By expanding its functionality and making it more comprehensive, I aim to create a valuable resource for students seeking a simplified example of DG schemes. This endeavor stems from my own experiences as a student, where access to such a resource would have greatly facilitated my understanding and learning process.
 
-[Git](https://github.com/SachaCardonna/SimpleDG4SCL).
+[Git repository](https://github.com/SachaCardonna/SimpleDG4SCL).
