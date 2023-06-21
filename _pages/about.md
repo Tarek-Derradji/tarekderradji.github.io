@@ -14,9 +14,9 @@ My work is focused on theoretical and numerical analysis of partial differential
 
 Research interests
 ======
-- Theoretical analysis of PDEs, Hyperbolic equations, Modeling & coupling;
-- Numerical analysis of PDEs, Discontinuous Galerkin schemes, Finite-Volume schemes, ALE approaches;
-- Fluid mechanics, Nonlinear Shallow-Water equations;
-- Scientific computing, parallel computing.
+- <b>Models</b>. Conservation laws, non-linear hyperbolic systems of PDEs, models coupling.
+- <b>Numerics</b>. Discontinuous Galerkin & Finite-Volume schemes, well-balanced schemes, ALE approaches.
+- <b>Applications</b>. Fluid mechanics, nonlinear Shallow-Water equations.
+- <b>Scientific computing</b>. Object oriented and generic programming, parallel programming.
 
 
