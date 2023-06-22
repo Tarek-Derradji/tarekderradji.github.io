@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Find a diverse range of documents, including essays, research papers, presentations, and reports. 
+Find a diverse range of documents, including essays, presentations, and reports I made as a student . 
 
 Internships
 ======
