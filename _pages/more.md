@@ -19,7 +19,7 @@ Discover diverse content encompassing mathematics, physics and more.
 - A must for calculus: [BlackPenRedPen](https://www.youtube.com/@blackpenredpen).
 - YouTube channel of [Axel Arno](https://www.youtube.com/@Axel_Arno), promoting maths and its history.
 - [Flammable Maths](https://www.youtube.com/@PapaFlammy69) for serious and less serious maths videos.
-- If you want to get advices and be successful in your maths studies, check [Lucas Willems](https://www.youtube.com/@lcswillems)'s channel.
+- If you want to get advices and be successful in your maths studies, check [Lucas Willems](https://www.youtube.com/@lcswillems) channel.
 
 
 <b>Learn and practice physics</b>:
@@ -43,7 +43,7 @@ Discover diverse content encompassing mathematics, physics and more.
 - [Micmaths](https://www.youtube.com/@Micmaths) from Mickaël Launay proposing videos on playful aspects of maths.
 
 <b> Useful tools</b>:
-- To start using Latex, the best way is probably to use [Overleaf](https://fr.overleaf.com/login?), that allows to write online, and provides a lot of cool templates to start with. Use this [note](https://tice.univ-irem.fr/lexique/res/Annexe_E_-_Liste_des_symboles_mathematiques_usuels__LaTeX_.pdf) for the basic symbols.
+- To start using Latex, the best way is probably to use [Overleaf](https://fr.overleaf.com/login?), that allows to write online, and provides a lot of cool templates to start with. Use this [document](https://texlive.mycozy.space/info/symbols/comprehensive/symbols-a4.pdf) to get all the notations you may need.
 - For PDFs conversions and more, use [iLovePDF](https://www.ilovepdf.com/fr).
 
 
