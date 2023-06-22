@@ -153,22 +153,3 @@ $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
 
 
-
-
-
-
-
-/* Styles for mobile devices */
-@media only screen and (max-width: 767px) {
-  /* Replace these color values with your desired ones */
-  .follow-button {
-    background-color: #000000;
-    color: #ffffff;
-  }
-  
-  .navigation-menu {
-    background-color: #000000;
-    color: #ffffff;
-  }
-}
-
