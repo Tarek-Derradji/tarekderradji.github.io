@@ -24,12 +24,12 @@ Discover diverse content encompassing mathematics, physics and more.
 
 <b>Learn and practice physics</b>:
 - [E-Learning Physique](https://www.youtube.com/@e-learningphysique4910), the best videos to learn physics for bachelor's degree and engineering schools competition, created by the amazing Benoît Hébert (he tragically left us in February 2020).
-- A very pedagogic channel: [Scientia Egregia](https://www.youtube.com/@antoinebrgt), to learn more about advanced theoretical physics.
+- A very pedagogic yet challenging channel: [Scientia Egregia](https://www.youtube.com/@antoinebrgt), to learn more about advanced theoretical physics.
 - Cartoonistic and playful physics concepts in [Minute Physics](https://www.youtube.com/@MinutePhysics).
 - University courses from the brilliant [Richard Taillet](https://www.youtube.com/@richardtaillet).
 
 <b>Learn and practice programming</b>:
-- Dominique Liar's [Koor](https://www.youtube.com/@DominiqueLiard06) to learn C++, Python, Java...
+- Dominique Liar's [Koor](https://www.youtube.com/@DominiqueLiard06) to learn preetu much any programming language you want, useful because notions are always presented with code examples.
 - A more specialized website with free lessons: [Learn C++](https://www.learncpp.com).
 
 <b>Scientific vulgarization</b>:
