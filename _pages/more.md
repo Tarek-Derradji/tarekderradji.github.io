@@ -13,7 +13,7 @@ Discover diverse content encompassing mathematics, physics and more.
 
 <b>Learn and practice mathematics</b>:
 - The well-known forum [Les Mathématiques](https://les-mathematiques.net), interesting for any needs you may have during your studies.
-- Gilles Bailly Maitre's [MathsAdultes](https://www.youtube.com/channel/UC9Vaxx3-gWuBxt38pao4XCQ), amazing for learning advanced maths (very useful for studying at the last minute).
+- Gilles Bailly Maitre's [Maths Adultes](https://www.youtube.com/channel/UC9Vaxx3-gWuBxt38pao4XCQ), amazing for learning advanced maths (very useful for studying at the last minute).
 - The channel of [Fares Maalouf](https://www.youtube.com/@FaresMaalouf) for courses and exercises up to master's degree.
 - [Bibm@th](https://www.bibmath.net) &  [Exo7](http://exo7.emath.fr),  useful websites with loads of corrected exercises and some lesson sheets.
 - A must for calculus: [BlackPenRedPen](https://www.youtube.com/@blackpenredpen).
