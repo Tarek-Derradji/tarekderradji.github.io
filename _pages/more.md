@@ -28,17 +28,21 @@ Discover diverse content encompassing mathematics, physics and more.
 - Cartoonistic and playful physics concepts in [Minute Physics](https://www.youtube.com/@MinutePhysics).
 - University courses from the brilliant [Richard Taillet](https://www.youtube.com/@richardtaillet).
 
+<b>Visualizing fluid mechanics</b>:
+- Some old yet amazing videos from [National Committee for Fluid Mechanics Films](https://web.mit.edu/hml/ncfmf.html);
+- An entire website dedicated to fluid mechanics: [eFluids](http://www.efluids.com).
+
 <b>Learn and practice programming</b>:
-- Dominique Liar's [Koor](https://www.youtube.com/@DominiqueLiard06) to learn preetu much any programming language you want, useful because notions are always presented with code examples.
+- Dominique Liar's [Koor](https://www.youtube.com/@DominiqueLiard06) to learn pretty much any programming language you want (notions are always presented with code examples).
 - A more specialized website with free lessons: [Learn C++](https://www.learncpp.com).
 
 <b>Scientific vulgarization</b>:
 - [Blog](https://scienceetonnante.com) and [YouTube](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) channel of David Louapre, for physics, maths, informatics...
 - [Micmaths](https://www.youtube.com/@Micmaths) from Mickaël Launay proposing videos on playful aspects of maths.
 
-<b>Visualizing fluid mechanics</b>:
-- Some old yet amazing videos from [National Committee for Fluid Mechanics Films](https://web.mit.edu/hml/ncfmf.html);
-- An entire website dedicated to fluid mechanics: [eFluids](http://www.efluids.com).
+<b> Useful tools</b>:
+- To start using Latex, the best way is probably to use [Overleaf](https://fr.overleaf.com/login?), that allows to write online, and provides a lot of cool templates to start with.
+- For PDFs conversions and more, use [iLovePDF](https://www.ilovepdf.com/fr).
 
 
-<i>Note to students and colleagues</i>. If you're looking for maths or physics books in PDFs, don't hesitate to ask me, I may share some with you if you promise you won't report me to the police.
+<i>Note to students and colleagues</i>. If you're looking for maths or physics books in PDF, don't hesitate to ask me, I may share some with you if you promise you won't report me to the police.
