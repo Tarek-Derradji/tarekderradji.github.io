@@ -43,7 +43,7 @@ Discover diverse content encompassing mathematics, physics and more.
 - [Micmaths](https://www.youtube.com/@Micmaths) from Mickaël Launay proposing videos on playful aspects of maths.
 
 <b> Useful tools</b>:
-- To start using Latex, the best way is probably to use [Overleaf](https://fr.overleaf.com/login?), that allows to write online, and provides a lot of cool templates to start with.
+- To start using Latex, the best way is probably to use [Overleaf](https://fr.overleaf.com/login?), that allows to write online, and provides a lot of cool templates to start with. Use this [note](https://tice.univ-irem.fr/lexique/res/Annexe_E_-_Liste_des_symboles_mathematiques_usuels__LaTeX_.pdf) for the basic symbols.
 - For PDFs conversions and more, use [iLovePDF](https://www.ilovepdf.com/fr).
 
 
