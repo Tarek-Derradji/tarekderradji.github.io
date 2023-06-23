@@ -38,7 +38,7 @@ Discover diverse content encompassing mathematics, physics and more.
 
 <b>Scientific vulgarization</b>:
 - Channel of [Aurélien Barreau](https://www.youtube.com/@aurelien_barrau) for amazing talks about physics, maths, sciences and ecology.
-- Physics and maths playful videos with [Tibees](https://www.youtube.com/@tibees).
+- Physics and maths entertaining videos with [Tibees](https://www.youtube.com/@tibees).
 - [Blog](https://scienceetonnante.com) and [YouTube](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) channel of David Louapre, for physics, maths, informatics...
 - [Micmaths](https://www.youtube.com/@Micmaths) from Mickaël Launay proposing videos on playful aspects of maths.
 
