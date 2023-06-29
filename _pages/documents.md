@@ -19,7 +19,7 @@ Internships
 
 <i>Abstract</i>. Building and implementing a new strategy for stabilizing discontinuous Galerkin numerical methods using a Finite-Volume subcells type approach for the Nonlinear Shallow-Water equations. We consider here an a priori approach, more precisely a monolithic subcell dG/FV convex property preserving scheme. Advised by François Vilar & Fabien Marche.
 
-Report & Beamer.
+[Report]({{ site.url }}/files/DG-FV4SW.pdf) & [Beamer]({{ site.url }}/files/Soutenance DG-FV4SW.pdf).
 
 ***
 
