@@ -11,7 +11,7 @@ redirect_from:
 
 Read more about the codes I made for scientific computing during my studies.
 
-SimpleDG4SCL (Beta)
+SimpleDG4SCL
 =======
 
 During the early stages of my internship with F. Vilar and F. Marche, I embarked on the development of a small C++ code focused on addressing Discontinuous Galerkin (DG) schemes for 1D conservation laws. 
