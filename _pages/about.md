@@ -16,8 +16,8 @@ Research interests
 ======
 - <b>Models</b>. Conservation laws, non-linear hyperbolic systems of PDEs, models coupling.
 - <b>Numerics</b>. Discontinuous Galerkin & Finite-Volume schemes, well-balanced schemes, ALE approaches.
-- <b>Applications</b>. Fluid mechanics, nonlinear Shallow-Water equations.
-- <b>Scientific computing</b>. Object oriented and generic programming, parallel programming.
+- <b>Applications</b>. Fluid mechanics, nonlinear Shallow-Water equations, dispersive PDEs.
+- <b>Scientific computing</b>. Object oriented and generic programming, parallel computing.
 
 Highlights
 ======
