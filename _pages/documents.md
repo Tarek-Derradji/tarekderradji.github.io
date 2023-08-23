@@ -37,7 +37,7 @@ Advised by Michel Bellieud.
 
 <b> From differential geometry to mathematical billiards</b>.
 
-<i>Abstract</i>. Studying one of the simplest dynamical system, the mathematical billiard where we characterize the periodic trajectories by their initial angle of shot. 
+<i>Abstract</i>. Studying one of the simplest dynamical system, the mathematical billiard where we characterize the periodic trajectories by their initial angle of shot (with Samuel Raë).
 
 Advised by Daniel Massart.
 
