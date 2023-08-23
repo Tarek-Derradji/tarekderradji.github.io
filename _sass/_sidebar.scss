@@ -235,3 +235,24 @@
     }
   }
 }
+
+
+
+
+
+/*===============================================================
+
+/* Change the font color of sidebar menu items */
+@media (max-width: $large-screen-width) {
+  .sidebar__urls li a {
+    color: #c91818; /* Change this to your desired font color */
+  }
+}
+
+/* Change the background color of the sidebar */
+@media (max-width: $large-screen-width) {
+  .sidebar__urls {
+    background: #000000; /* Change this to your desired background color */
+  }
+}
+
