@@ -240,33 +240,4 @@
 
 
 
-/*===============================================================
-
-/* Change the font color of sidebar menu items */
-@media (max-width: $large-screen-width) {
-  .sidebar__urls li a {
-    color: #c91818; /* Change this to your desired font color */
-  }
-}
-
-/* Change the background color of the sidebar */
-@media (max-width: $large-screen-width) {
-  .sidebar__urls {
-    background: #000000; /* Change this to your desired background color */
-  }
-}
-
-
-/* Change the font color and background color of social links on mobile */
-@media (max-width: $large-screen-width) {
-  .author__urls {
-    color: #c91818;      /* Change to your desired font color */
-    background: #000000;  /* Change to your desired background color */
-  }
-  
-  .author__urls a {
-    color: #c91818;      /* Change to your desired font color */
-  }
-}
-
-
+/*==============================================================
