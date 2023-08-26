@@ -1,0 +1,169 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 /* ==========================================================================\
+   Variables\
+   ========================================================================== */\
+\
+/*\
+   Typography\
+   ========================================================================== */\
+\
+$doc-font-size              : 16;\
+\
+/* paragraph indention */\
+$paragraph-indent           : false; // true, false (default)\
+$indent-var                 : 1.3em;\
+\
+/* system typefaces */\
+$serif                      : Georgia, Times, serif;\
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;\
+$monospace                  : Monaco, Consolas, "Lucida Console", monospace;\
+\
+/* sans serif typefaces */\
+$sans-serif-narrow          : $sans-serif;\
+$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;\
+\
+/* serif typefaces */\
+$georgia                    : Georgia, serif;\
+$times                      : Times, serif;\
+$bodoni                     : "Bodoni MT", serif;\
+$calisto                    : "Calisto MT", serif;\
+$garamond                   : Garamond, serif;\
+\
+$global-font-family         : $sans-serif;\
+$header-font-family         : $sans-serif;\
+$caption-font-family        : $serif;\
+\
+/* type scale */\
+$type-size-1                : 2.441em;  // ~39.056px\
+$type-size-2                : 1.953em;  // ~31.248px\
+$type-size-3                : 1.563em;  // ~25.008px\
+$type-size-4                : 1.25em;   // ~20px\
+$type-size-5                : 1em;      // ~16px\
+$type-size-6                : 0.75em;   // ~12px\
+$type-size-7                : 0.6875em; // ~11px\
+$type-size-8                : 0.625em;  // ~10px\
+\
+\
+/*\
+   Colors\
+   ========================================================================== */\
+\
+$gray                       : #000000; //<blan   < noir      g\'e8re couleur texte follow button+ texte du bas\
+$dark-gray                  : #ebeb07; //jajne\
+$darker-gray                : #07eb1e; //vert\
+$light-gray                 : #c91818; //bleu < ro\
+$lighter-gray               : #000000; //rose < ro < noi\
+\
+$body-color                 : #c91818;\
+$background-color           : #ffffff; // noif- blan\
+$code-background-color      : #000000; //blanc < noi \
+$code-background-color-dark : #000000;\
+$text-color                 : #000000; // blanc- noir\
+$border-color               : #c91818;\
+\
+\
+$follow-button-background-color: #ff0000;   // Update with the desired background color\
+$follow-button-text-color: #ffffff;         // Update with the desired text color\
+\
+$menu-background-color: #00ff00;            // Update with the desired background color\
+$menu-text-color: #000000;                   // Update with the desired text color\
+\
+\
+$primary-color              : #c91818;\
+$success-color              : #62c462;\
+$warning-color              : #f89406;\
+$danger-color               : #ee5f5b;\
+$info-color                 : #a31717;\
+\
+/* brands */\
+$behance-color              : #1769FF;\
+$dribbble-color             : #ea4c89;\
+$facebook-color             : #3b5998;\
+$flickr-color               : #ff0084;\
+$foursquare-color           : #0072b1;\
+$github-color               : #de37ed;\
+$google-plus-color          : #dd4b39;\
+$instagram-color            : #517fa4;\
+$lastfm-color               : #d51007;\
+$linkedin-color             : #0066ff;\
+$pinterest-color            : #cb2027;\
+$rss-color                  : #fa9b39;\
+$soundcloud-color           : #ff3300;\
+$stackoverflow-color        : #fe7a15;\
+$tumblr-color               : #32506d;\
+$twitter-color              : #55acee;\
+$vimeo-color                : #1ab7ea;\
+$vine-color                 : #00bf8f;\
+$youtube-color              : #bb0000;\
+$xing-color                 : #006567;\
+\
+\
+/* links */\
+$link-color                 : #c91818;\
+$link-color-hover           : mix(#fff, $link-color, 50%);\
+$link-color-visited         : #c91818;\
+$masthead-link-color        : #ffffff; \
+$masthead-link-color-hover  : #c91818;\
+\
+\
+/*\
+   Breakpoints\
+   ========================================================================== */\
+\
+@include breakpoint-set("to ems", true);\
+/*\
+$small                      : 400px;\
+$medium                     : 500px;\
+$medium-wide                : 550px;\
+$large                      : 1200px;\
+$x-large                    : 1800px;\
+*/\
+\
+$small                      : 600px !default;\
+$medium                     : 768px !default;\
+$medium-wide                : 900px !default;\
+$large                      : 925px !default;\
+$x-large                    : 1280px !default;\
+\
+/*\
+   Grid\
+   ========================================================================== */\
+\
+$right-sidebar-width-narrow : 0px;\
+$right-sidebar-width        : 0px;\
+$right-sidebar-width-wide   : 0px;\
+\
+$susy: (\
+  columns: 12,\
+  column-width: 120px,\
+  gutters: 1/4,\
+  math: fluid,\
+  output: float,\
+  gutter-position: after,\
+  container: $large,\
+  global-box-sizing: border-box,\
+  // debug: (\
+  //   image: show,\
+  //   color: blue,\
+  //   output: overlay,\
+  //   toggle: top right,\
+  // ),\
+);\
+\
+\
+/*\
+   Other\
+   ========================================================================== */\
+\
+$border-radius              : 4px;\
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);\
+$navicon-width              : 28px;\
+$navicon-height             : 4px;\
+$global-transition          : all 0.2s ease-in-out;\
+}
