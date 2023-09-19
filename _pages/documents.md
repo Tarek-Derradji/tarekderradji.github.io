@@ -60,18 +60,17 @@ Projects
 
 Hybrid High-Order method on Leray-Lions operators : [report]({{ site.url }}/files/HHO pour Leray-Lions.pdf).
 
-<b> Müller's SPH C++ implementation for fluid dynamics</b>: [report]({{ site.url }}/files/RapportSPH.pdf).
+Müller's SPH C++ implementation for fluid dynamics : [report]({{ site.url }}/files/RapportSPH.pdf).
 
-<b> Some results about measure theory</b>: [notes](https://drive.google.com/drive/folders/13TeVJGtoIO5Xk9MxeGtBkZnzkxi8J9TG?usp=sharing).
+Some results about measure theory : [notes](https://drive.google.com/drive/folders/13TeVJGtoIO5Xk9MxeGtBkZnzkxi8J9TG?usp=sharing).
 
-<b> Projects for a posteriori estimates course</b>: [reports](https://drive.google.com/drive/folders/1z1DtewZAjelfo_tHnjh6TZzA_A_a4aCj?usp=sharing).
+Projects for a posteriori estimates course : [reports](https://drive.google.com/drive/folders/1z1DtewZAjelfo_tHnjh6TZzA_A_a4aCj?usp=sharing).
 
+Reports for analysis courses : [reports](https://drive.google.com/drive/folders/1pF1-KXYOm8rfycXRVeirWSbSoufYTr0s?usp=sharing).
 
-<b> Reports for analysis courses</b>: [reports](https://drive.google.com/drive/folders/1pF1-KXYOm8rfycXRVeirWSbSoufYTr0s?usp=sharing).
+Reports for algebra courses : [reports](https://drive.google.com/drive/folders/12k5KvgNMU8iEU9qYQoFYRyaJ8ebhsgBu?usp=sharing).
 
-<b> Reports for algebra courses</b>: [reports](https://drive.google.com/drive/folders/12k5KvgNMU8iEU9qYQoFYRyaJ8ebhsgBu?usp=sharing).
-
-<b> Projects for machine learning and optimization course</b>: [reports](https://drive.google.com/drive/folders/1eqYNW_TL_0TBVxVPYGF3PJ686cYDTE3d?usp=sharing).
+Projects for machine learning and optimization course : [reports](https://drive.google.com/drive/folders/1eqYNW_TL_0TBVxVPYGF3PJ686cYDTE3d?usp=sharing).
 
 
 
