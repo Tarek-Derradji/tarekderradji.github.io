@@ -12,10 +12,10 @@ I'm a Ph.D. candidate in Mathematics, under the supervision of [François Vilar]
 
 I'm also a teaching assistant in Mathematics at [Engineering school Polytech Montpellier](https://www.polytech.umontpellier.fr).
 
-My work is focused on theoretical and numerical analysis of partial differential equations (PDEs), and their applications to physics problems, mainly fluid mechanics.
-
 Research interests
 ======
+My work is focused on theoretical and numerical analysis of partial differential equations (PDEs), and their applications to physics problems, mainly fluid mechanics.
+
 - <b>Models</b>. Conservation laws, non-linear hyperbolic systems of PDEs, models coupling.
 - <b>Numerics</b>. Discontinuous Galerkin & Finite-Volume schemes, well-balanced schemes, ALE approaches.
 - <b>Applications</b>. Fluid mechanics, nonlinear Shallow-Water equations, dispersive PDEs.
