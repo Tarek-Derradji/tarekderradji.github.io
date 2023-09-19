@@ -58,7 +58,7 @@ Advised by Sylvain Brochard.
 Projects
 ======
 
-<b> Hybrid High-Order method on Leray-Lions operators</b>: [report]({{ site.url }}/files/HHO pour Leray-Lions.pdf).
+Hybrid High-Order method on Leray-Lions operators : [report]({{ site.url }}/files/HHO pour Leray-Lions.pdf).
 
 <b> Müller's SPH C++ implementation for fluid dynamics</b>: [report]({{ site.url }}/files/RapportSPH.pdf).
 
