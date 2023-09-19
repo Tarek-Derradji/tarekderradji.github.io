@@ -20,7 +20,7 @@ Courses
 
 
 ***
-<b> XADES4 - Supervised assignments. </b>
+<b> XADES4 - Supervised mathematical assignments. </b>
 <i> Engineering school Polytech Montpellier. </i> 
 
 <i> Abstract. </i> Supervised assignments is a specific system for students following the preparatory cycle in Polytech Montpellier, allowing them to assimilate the educational content provided by developing their autonomy and their capacity for self-assessment. 
