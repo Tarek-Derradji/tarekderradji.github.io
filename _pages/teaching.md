@@ -15,12 +15,12 @@ Courses
 ======
 
 ***
-<b> HA8401H - Preparatory cycle Mathematics. </b> <br>
+<b> HA8401H - Preparatory cycle Mathematics </b>(2nd year B.Sc.) <br>
 <i> Engineering school Polytech Montpellier. </i> 
 
 
 ***
-<b> XADES4 - Supervised mathematical assignments. </b> <br>
+<b> XADES4 - Supervised mathematical assignments </b>(2nd year B.Sc.) <br>
 <i> Engineering school Polytech Montpellier. </i> 
 
 <i> Abstract. </i> Supervised assignments is a specific system for students following the preparatory cycle in Polytech Montpellier, allowing them to assimilate the educational content provided by developing their autonomy and their capacity for self-assessment. 
