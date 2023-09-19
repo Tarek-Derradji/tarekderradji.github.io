@@ -18,6 +18,7 @@ Courses
 <b> HA8401H - Preparatory cycle mathematics </b>(2nd year B.Sc.) <br>
 <i> Engineering school Polytech Montpellier. </i> 
 
+[Documents]({{ site.url }}/courses/HA84011H.md).
 
 ***
 <b> XADES4 - Supervised mathematical assignments </b>(2nd year B.Sc.) <br>
