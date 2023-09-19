@@ -15,7 +15,7 @@ Courses
 ======
 
 ***
-<b> HA8401H - Preparatory cycle Mathematics </b>(2nd year B.Sc.) <br>
+<b> HA8401H - Preparatory cycle mathematics </b>(2nd year B.Sc.) <br>
 <i> Engineering school Polytech Montpellier. </i> 
 
 
