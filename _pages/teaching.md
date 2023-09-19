@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Access course materials for students.
+Access course and scientific mediation materials for students.
 
 Courses
 ======
