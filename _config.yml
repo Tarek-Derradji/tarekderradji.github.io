@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sacha Cardonna"
-description              : &description "Ph.D. Student in Mathematics <br> Building 9 - Office XXX"
+description              : &description "Ph.D. Student in Mathematics"
 url                      : "https://SachaCardonna.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "SachaCardonna/SachaCardonna.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Sacha Cardonna"
   avatar           : "me.png" #"image1.jpg"
   bio              : "Ph.D. Student in Mathematics"
-  location         : 
+  location         : "Building 9 - Office XXX"
   employer         :
   pubmed           : 
   googlescholar    : 
