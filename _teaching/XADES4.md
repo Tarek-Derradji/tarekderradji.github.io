@@ -4,7 +4,7 @@ collection: teaching
 type: "2nd year B.Sc"
 permalink: /teaching/XADES4
 venue: "Engineering school Polytech Montpellier"
-date: 2023
+date: 2024-01-01
 ---
 
 Coming soon.
