@@ -1,6 +1,6 @@
 ---
 title: "XADES4 - Supervised mathematical assignments"
 ---
-<i>Engineering school Polytech Montpellier</i>
+2nd year B.Sc., <i>Engineering school Polytech Montpellier </i>
 
 Coming soon.
