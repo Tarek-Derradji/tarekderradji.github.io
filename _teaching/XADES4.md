@@ -4,15 +4,7 @@ collection: teaching
 type: "2nd year B.Sc."
 permalink: /teaching/XADES4
 venue: "Engineering school Polytech Montpellier"
+date: "2023-2024"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Coming soon.
