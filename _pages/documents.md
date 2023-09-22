@@ -58,7 +58,7 @@ Advised by Sylvain Brochard.
 Projects
 ======
 
-<b>Hybrid High-Order method on Leray-Lions operators</b> : studying a new non-conform finite-element method called Hybrid High-Order and its main discrete functional analysis results on Leray-Lions operators.<br>
+<b>Hybrid High-Order method on Leray-Lions operators</b> : studying a new non-conform finite-element method and its main discrete functional analysis results on Leray-Lions operators.<br>
 [Report]({{ site.url }}/files/HHO pour Leray-Lions.pdf).
 
 <b>Müller's SPH C++ implementation for fluid dynamics</b>: building and implementing Smooth Particle Hydrodynamics method for a C++ simulation.<br>[Report]({{ site.url }}/files/RapportSPH.pdf).
