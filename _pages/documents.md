@@ -58,19 +58,20 @@ Advised by Sylvain Brochard.
 Projects
 ======
 
-Hybrid High-Order method on Leray-Lions operators : [report]({{ site.url }}/files/HHO pour Leray-Lions.pdf).
+<b>Hybrid High-Order method on Leray-Lions operators</b> : studying a new non-conform finite-element method called Hybrid High-Order and its main discrete functional analysis results on Leray-Lions operators.<br>
+[Report]({{ site.url }}/files/HHO pour Leray-Lions.pdf).
 
-Müller's SPH C++ implementation for fluid dynamics : [report]({{ site.url }}/files/RapportSPH.pdf).
+<b>Müller's SPH C++ implementation for fluid dynamics</b>: building and implementing Smooth Particle Hydrodynamics method for a C++ simulation.<br>[Report]({{ site.url }}/files/RapportSPH.pdf).
 
-Some results about measure theory : [notes](https://drive.google.com/drive/folders/13TeVJGtoIO5Xk9MxeGtBkZnzkxi8J9TG?usp=sharing).
+<b>Some results about measure theory</b> : proving measure theory results, including differentiation of Radon measures, Besicovitch & Vitali covering theorems, Tietze & Lusin’s theorems.<br>[Notes](https://drive.google.com/drive/folders/13TeVJGtoIO5Xk9MxeGtBkZnzkxi8J9TG?usp=sharing).
 
-Projects for a posteriori estimates course : [reports](https://drive.google.com/drive/folders/1z1DtewZAjelfo_tHnjh6TZzA_A_a4aCj?usp=sharing).
+<b>Projects for a posteriori estimates course</b> : some results on a posteriori estimates and mesh adaption, some implementation on Fortran, Python and C++.<br>[Reports](https://drive.google.com/drive/folders/1z1DtewZAjelfo_tHnjh6TZzA_A_a4aCj?usp=sharing).
 
-Reports for analysis courses : [reports](https://drive.google.com/drive/folders/1pF1-KXYOm8rfycXRVeirWSbSoufYTr0s?usp=sharing).
+<b>Reports for analysis courses</b> : some results on Hölderian functions and distribution theory.<br> [Reports](https://drive.google.com/drive/folders/1pF1-KXYOm8rfycXRVeirWSbSoufYTr0s?usp=sharing).
 
-Reports for algebra courses : [reports](https://drive.google.com/drive/folders/12k5KvgNMU8iEU9qYQoFYRyaJ8ebhsgBu?usp=sharing).
+<b>Reports for algebra courses</b> : results on cube automorphism and euclidian ring, diophantine equations.<br> [Reports](https://drive.google.com/drive/folders/12k5KvgNMU8iEU9qYQoFYRyaJ8ebhsgBu?usp=sharing).
 
-Projects for machine learning and optimization course : [reports](https://drive.google.com/drive/folders/1eqYNW_TL_0TBVxVPYGF3PJ686cYDTE3d?usp=sharing).
+<b>Projects for machine learning and optimization course</b> : database analysis and programming regression methods for machine learning on Python.<br>[Reports](https://drive.google.com/drive/folders/1eqYNW_TL_0TBVxVPYGF3PJ686cYDTE3d?usp=sharing).
 
 
 
