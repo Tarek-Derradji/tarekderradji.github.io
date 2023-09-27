@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in Mathematics, under the supervision of [François Vilar](https://francois-vilar.pagesperso-orange.fr) & [Fabien Marche](https://imag.umontpellier.fr/~marche/) at [Institut Montpelliérain Alexander Grothendieck](https://imag.umontpellier.fr) (IMAG - University of Montpellier).
+I'm a Ph.D. candidate in Mathematics, under the supervision of [François Vilar](https://francois-vilar.pagesperso-orange.fr) & [Fabien Marche](https://imag.umontpellier.fr/~marche/) at [Institut Montpelliérain Alexander Grothendieck](https://imag.umontpellier.fr) (IMAG - UMR 5149).
 
-I'm also a teaching assistant in Mathematics at [Engineering School Polytech Montpellier](https://www.polytech.umontpellier.fr).
+I'm also a teaching assistant in Mathematics at [Engineering School Polytech Montpellier](https://www.polytech.umontpellier.fr) (Faculty of Sciences - University of Montpellier).
 
 Research interests
 ======
