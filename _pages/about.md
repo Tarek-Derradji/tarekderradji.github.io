@@ -23,4 +23,4 @@ My work is focused on theoretical and numerical analysis of partial differential
 
 Highlights
 ======
-With other Ph.D. students, we are going to Lozère on October 12 and 13 to promote mathematics professions and talk about our thesis subject and our student path with high schoolers (collaboration with IREM - Institut de Recheche sur l'Enseignement des Mathématiques).
+With [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/index.php?page=index) & [Tristan Xabada](https://www.cbs.cnrs.fr/index.php/fr/personnel?PERS=Tristan%20Xabada), we went to Lozère on October 12 and 13 to promote mathematics professions, talk about our thesis subject and our student path with high schoolers (collaboration with IREM - Institut de Recheche sur l'Enseignement des Mathématiques).
