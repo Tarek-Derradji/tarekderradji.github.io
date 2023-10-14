@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching & Scientific Mediation"
+title: "Teaching & Scientific Diffusion"
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Access course and scientific mediation materials for students.
+Access course and scientific diffusion materials for students.
 
 Courses
 ======
@@ -35,7 +35,7 @@ These homework are training in scientific and technical production, here in math
 [Course page](https://sachacardonna.github.io/teaching/XADES4).
 
 
-Scientific mediation
+Scientific diffusion
 ======
 
 ***
