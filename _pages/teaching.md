@@ -34,7 +34,6 @@ These homework are training in scientific and technical production, here in math
 
 [Course page](https://sachacardonna.github.io/teaching/XADES4).
 
-***
 <br>
 
 Scientific diffusion
