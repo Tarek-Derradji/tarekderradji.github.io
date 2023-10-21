@@ -6,8 +6,8 @@ main:
     url: /teaching/ 
   - title: "Documents"
     url: /documents/
-  #- title: "Codes"
-  #  url: /codes/
+  - title: "Codes"
+    url: /codes/
   - title: "CV"
     url: /cv/
   #- title: "Extras"
