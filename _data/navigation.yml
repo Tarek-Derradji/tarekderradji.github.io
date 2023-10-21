@@ -9,6 +9,7 @@ main:
   - title: "Documents"
     url: /documents/
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url :/files/CV TD.pdf
   #- title: "Extras"
   #  url: /more/
