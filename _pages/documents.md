@@ -15,6 +15,5 @@ The objective of our work is to present, among these results, those of Peng  who
 Chapter 3 deals with the equilibrium state of the S.I.S model, specifically the disease-free equilibrium and the endemic equilibrium.
 The final chapter aims to study the asymptotic behaviors of the endemic equilibrium. It is based on two main theorems for which we provide their proofs and their epidemiological interpretation.
 
-<b>full resume</b> :[PDF]({{https://tarek-derradji.github.io/tarekderradji.github.io/}}/files/CV TD.PDF).
-
+<a href="https://drive.google.com/file/d/1FTelah_5RY5quPDo1anRIcpUs8yqUQoi/view?usp=drivesdk">mémoire</a>
 
