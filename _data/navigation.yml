@@ -4,10 +4,10 @@ main:
   #  url: /research/
   #- title: "Teaching"
    # url: /teaching/ 
-  - title: "Documents"
-    url: /documents/
   - title: "Teaching"
     url: /Teaching/
+  - title: "Documents"
+    url: /documents/
   - title: "CV"
     url: /cv/
   #- title: "Extras"
