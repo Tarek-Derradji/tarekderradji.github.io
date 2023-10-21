@@ -10,6 +10,6 @@ main:
     url: /documents/
   - title: "CV"
     # url: /cv/
-    url :/files/CV TD.pdf
+    url: /files/CV TD.pdf
   #- title: "Extras"
   #  url: /more/
