@@ -2,12 +2,12 @@
 main:
   #- title: "Research"
   #  url: /research/
-  - title: "Teaching"
-    url: /teaching/ 
+  #- title: "Teaching"
+   # url: /teaching/ 
   - title: "Documents"
     url: /documents/
-  - title: "Codes"
-    url: /codes/
+  - title: "Teaching"
+    url: /Teaching/
   - title: "CV"
     url: /cv/
   #- title: "Extras"
