@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Sacha Cardonna"
-description              : &description "Ph.D. Student in Mathematics"
-url                      : "https://SachaCardonna.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tarek Derradji"
+description              : &description "Student in Mathematics"
+url                      : #"https://SachaCardonna.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
-repository               : "SachaCardonna/SachaCardonna.github.io"
+repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sacha Cardonna"
-  avatar           : "me.png" #"image1.jpg"
-  bio              : "Ph.D. Student in Mathematics"
+  name             : "Tarek Derradji"
+  avatar           : #"me.png" #"image1.jpg"
+  bio              : "Student in Mathematics"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "sacha.cardonna@umontpellier.fr"
-  researchgate     : "https://www.researchgate.net/profile/Sacha-Cardonna" # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : #"sacha.cardonna@umontpellier.fr"
+  researchgate     : #"https://www.researchgate.net/profile/Sacha-Cardonna" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sachacardonna"
+  github           : "Tarek-Derradji"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sachacardonna"
+  linkedin         : "TarekDerradji"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "@SachaCardonna"
+  youtube          : #"@SachaCardonna"
   wikipedia        :
 
 
