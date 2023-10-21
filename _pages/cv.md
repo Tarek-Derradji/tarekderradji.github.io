@@ -11,7 +11,7 @@ redirect_from:
 
 Uncover my academic achievements and qualifications.
 
-<b>Full resume</b>: [PDF]({{ site.url }}/files/CV.pdf).
+<b>Full resume</b>: [PDF]({{ site.url }}/files/CV TD.pdf).
 
 ***
 
