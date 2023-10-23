@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Tarek Derradji"
   avatar           : "TD.jpg" #"image1.jpg"
-  bio              : "Student in Mathematics"
+  bio              : "Mathematical Student"
   location         : "Montpelier"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : #"sacha.cardonna@umontpellier.fr"
-  researchgate     : #"https://www.researchgate.net/profile/Sacha-Cardonna" # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "tarek.derradji@etu.umontpellier.fr"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,20 +100,20 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "TarekDerradji"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "TarekDerradji"
   vine             :
   weibo            :
   xing             :
-  youtube          : #"@SachaCardonna"
+  youtube          : 
   wikipedia        :
 
 
